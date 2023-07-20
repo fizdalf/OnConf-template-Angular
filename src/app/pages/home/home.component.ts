@@ -7,17 +7,17 @@ import { Title, Meta } from '@angular/platform-browser'
   styleUrls: ['home.component.css'],
 })
 export class Home {
-  raww4oy: string = ' '
-  rawgz3m: string = ' '
-  rawkl2w: string = ' '
-  raw4m26: string = ' '
-  rawgk2x: string = ' '
-  rawuhih: string = ' '
-  rawdoim: string = ' '
-  raw0zdq: string = ' '
-  rawy3au: string = ' '
-  rawmlnd: string = ' '
-  rawrkmv: string = ' '
+  raw42i2: string = ' '
+  rawrwwi: string = ' '
+  rawq86l: string = ' '
+  raws8hj: string = ' '
+  rawn1et: string = ' '
+  rawvfgz: string = ' '
+  rawadh0: string = ' '
+  raweaun: string = ' '
+  raw2dss: string = ' '
+  rawy4zy: string = ' '
+  raw6mmh: string = ' '
   constructor(private title: Title, private meta: Meta) {
     this.title.setTitle('OnConf template')
     this.meta.addTags([
